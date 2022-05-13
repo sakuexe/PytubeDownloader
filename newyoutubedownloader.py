@@ -52,6 +52,7 @@ def downloadVideo(userLink: YouTube, quality: str):
 
 
 def main():
+    clearTerminal.CLEAR()
     print("Youtube Downloader - By Saku")
     print(f"- {pytube.__version__}")
     userLink = input("Insert the link of the video: ")
