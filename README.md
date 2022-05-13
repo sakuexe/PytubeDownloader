@@ -26,6 +26,11 @@ Code > Download ZIP, or by cloning the Github repository
 | Pytube        | [Github.com](https://github.com/pytube/pytube)           |
 | Python3       | [python.org](https://python.org)                         |
 
+```bash
+pip install pytube
+pip install ffmpeg-python
+```
+
 After these are installed you can run the file from the Youtube *Downloader.bat* file.
 ## Screenshots
 
