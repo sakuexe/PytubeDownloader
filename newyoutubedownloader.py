@@ -60,7 +60,6 @@ def main():
     printInfo(userLink)
     try:
         quality = chooseQuality(userLink)
-        tcolors.clear
     except Exception as e:
         print(f"{tcolors.red}Something went wrong when choosing the stream. Try again {tcolors.clear}")
         print(tcolors.bold, e, tcolors.clear)
