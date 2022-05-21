@@ -1,1 +1,1 @@
-python3.9 "%CD%/newyoutubedownloader.py"
+python3 "%CD%/newyoutubedownloader.py"

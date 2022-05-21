@@ -1,5 +1,4 @@
 
-from distutils.log import error
 from multiprocessing import reduction
 import pytube
 from pytube import YouTube                          # these two are the main pieces for getting youtube data
