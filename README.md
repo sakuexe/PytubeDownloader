@@ -1,6 +1,11 @@
 
 # Python Youtube Downloader
 
+<br></br>
+### [This repository is deprecated due to PyTube's inconsistency and slow speeds]
+Check out the new version of this project [From here](https://github.com/sakuexe/youtube-downloader).
+<br></br>
+
 This is a Youtube video and audio downloader software created using Python's Pytube library. 
 [Check out the Pytube library from this link](https://github.com/pytube/pytube)
 
